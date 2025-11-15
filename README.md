@@ -18,3 +18,12 @@ Conceitos Utilizados
 - Funções
 - Controle de Fluxo
 - Tema RPG/Fantasia 
+
+​🚀 Como Começar e Usar (Instruções)
+
+​Este código deve ser executado em um ambiente de Linha de Comando (CLI) ou Terminal onde a função readLine() seja suportada.
+
+​O programa iniciará exibindo o menu principal.
+​Para escolher uma opção: Digite o número correspondente (1, 2, 3 ou 4) e pressione Enter.
+​Para forjar uma espada (Opção 2): Você precisará digitar o NOME EXATO da espada que deseja comprar, conforme listado (ex: Espada Épica).
+O menu é o centro da interação, permitindo que você controle o aventureiro
